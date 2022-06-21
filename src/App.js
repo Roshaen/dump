@@ -63,22 +63,22 @@ function App() {
           <p className="text-[#f3f4fa] mb-12">Open source (sucks)</p>
           <p className="text-center text-[#a9b1d6] text-5xl font-bold mb-10">i CANNOT be:</p>
           <div className="w-[100%] mx-auto">
-            <p className="text-[#f3f4fa] text-3xl">.productive</p>
-            <p className="text-[#f3f4fa] text-3xl">.useful</p>
-            <p className="text-[#f3f4fa] text-3xl">.creative</p>
-            <p className="text-[#f3f4fa] text-3xl">.helpful</p>
-           <p className="text-[#f3f4fa] text-3xl">.dot operator, Unicode number: U+22C5</p>
-           <p className="text-[#f3f4fa] text-3xl mb-14">(idk how to align it to center)</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">.productive</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">.useful</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">.creative</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">.helpful</p>
+           <p className="text-[#f3f4fa] md:text-2xl text-md">.dot operator, Unicode number: U+22C5</p>
+           <p className="text-[#f3f4fa] md:text-2xl text-md mb-14">(idk how to align it to center)</p>
           </div>
 
           <p className="text-center text-[#a9b1d6] text-5xl font-bold mb-10">more about ME:</p>
           <div className="w-[100%] mx-auto">
-            <p className="text-[#f3f4fa] text-3xl">bored of my life</p>
-            <p className="text-[#f3f4fa] text-3xl">can't reveal my age (sorry)</p>
-            <p className="text-[#f3f4fa] text-3xl">useless developer</p>
-            <p className="text-[#f3f4fa] text-3xl">big fan of <a href="https://www.youtube.com/watch?v=vjW8wmF5VWc"><span className=" underline text-blue-700">marvel</span></a> </p>
-           <p className="text-[#f3f4fa] text-3xl">and yes, I use arch btw....</p>
-           <p className="text-[#f3f4fa] text-3xl mb-14">uwufetch &gt;&gt;&gt;&gt; neofetch</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">bored of my life</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">can't reveal my age (sorry)</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">useless developer</p>
+            <p className="text-[#f3f4fa] md:text-2xl text-md">big fan of <a href="https://www.youtube.com/watch?v=vjW8wmF5VWc"><span className=" underline text-blue-700">marvel</span></a> </p>
+           <p className="text-[#f3f4fa] md:text-2xl text-md">and yes, I use arch btw....</p>
+           <p className="text-[#f3f4fa] md:text-2xl text-md mb-14">uwufetch &gt;&gt;&gt;&gt; neofetch</p>
           </div>
           
           <p className="text-[#9aa3d8] text-3xl">©copyright something i forgor fogret whatever......</p>
